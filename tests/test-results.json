@@ -12,24 +12,24 @@
     "maxFailures": 0,
     "metadata": {
       "ci": {
-        "commitHref": "https://github.com/faruklmu17/browser_extension_test/commit/2c73387e7d66f11299e13d2484e44a742310737a",
-        "commitHash": "2c73387e7d66f11299e13d2484e44a742310737a",
-        "buildHref": "https://github.com/faruklmu17/browser_extension_test/actions/runs/15537617351"
+        "commitHref": "https://github.com/gabbynattabi123/browser_extension_test/commit/7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+        "commitHash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+        "buildHref": "https://github.com/gabbynattabi123/browser_extension_test/actions/runs/22009890344"
       },
       "gitCommit": {
-        "shortHash": "2c73387",
-        "hash": "2c73387e7d66f11299e13d2484e44a742310737a",
-        "subject": "4 tests",
-        "body": "4 tests\n",
+        "shortHash": "7b9d49f",
+        "hash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+        "subject": "Add GitHub Actions workflow for Playwright deployment",
+        "body": "Add GitHub Actions workflow for Playwright deployment",
         "author": {
-          "name": "faruklmu17",
-          "email": "farukqmul@gmail.com",
-          "time": 1749481137000
+          "name": "gabbynattabi123",
+          "email": "gabriellanattabi@icloud.com",
+          "time": 1771037841000
         },
         "committer": {
-          "name": "faruklmu17",
-          "email": "farukqmul@gmail.com",
-          "time": 1749481137000
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "time": 1771037841000
         },
         "branch": "main"
       },
@@ -64,24 +64,24 @@
         "retries": 2,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/faruklmu17/browser_extension_test/commit/2c73387e7d66f11299e13d2484e44a742310737a",
-            "commitHash": "2c73387e7d66f11299e13d2484e44a742310737a",
-            "buildHref": "https://github.com/faruklmu17/browser_extension_test/actions/runs/15537617351"
+            "commitHref": "https://github.com/gabbynattabi123/browser_extension_test/commit/7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "commitHash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "buildHref": "https://github.com/gabbynattabi123/browser_extension_test/actions/runs/22009890344"
           },
           "gitCommit": {
-            "shortHash": "2c73387",
-            "hash": "2c73387e7d66f11299e13d2484e44a742310737a",
-            "subject": "4 tests",
-            "body": "4 tests\n",
+            "shortHash": "7b9d49f",
+            "hash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "subject": "Add GitHub Actions workflow for Playwright deployment",
+            "body": "Add GitHub Actions workflow for Playwright deployment",
             "author": {
-              "name": "faruklmu17",
-              "email": "farukqmul@gmail.com",
-              "time": 1749481137000
+              "name": "gabbynattabi123",
+              "email": "gabriellanattabi@icloud.com",
+              "time": 1771037841000
             },
             "committer": {
-              "name": "faruklmu17",
-              "email": "farukqmul@gmail.com",
-              "time": 1749481137000
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "time": 1771037841000
             },
             "branch": "main"
           },
@@ -102,24 +102,24 @@
         "retries": 2,
         "metadata": {
           "ci": {
-            "commitHref": "https://github.com/faruklmu17/browser_extension_test/commit/2c73387e7d66f11299e13d2484e44a742310737a",
-            "commitHash": "2c73387e7d66f11299e13d2484e44a742310737a",
-            "buildHref": "https://github.com/faruklmu17/browser_extension_test/actions/runs/15537617351"
+            "commitHref": "https://github.com/gabbynattabi123/browser_extension_test/commit/7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "commitHash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "buildHref": "https://github.com/gabbynattabi123/browser_extension_test/actions/runs/22009890344"
           },
           "gitCommit": {
-            "shortHash": "2c73387",
-            "hash": "2c73387e7d66f11299e13d2484e44a742310737a",
-            "subject": "4 tests",
-            "body": "4 tests\n",
+            "shortHash": "7b9d49f",
+            "hash": "7b9d49f4b27b1c26ebf00287cfc36ded5dcbb34c",
+            "subject": "Add GitHub Actions workflow for Playwright deployment",
+            "body": "Add GitHub Actions workflow for Playwright deployment",
             "author": {
-              "name": "faruklmu17",
-              "email": "farukqmul@gmail.com",
-              "time": 1749481137000
+              "name": "gabbynattabi123",
+              "email": "gabriellanattabi@icloud.com",
+              "time": 1771037841000
             },
             "committer": {
-              "name": "faruklmu17",
-              "email": "farukqmul@gmail.com",
-              "time": 1749481137000
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "time": 1771037841000
             },
             "branch": "main"
           },
@@ -165,12 +165,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 787,
+                  "duration": 421,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-06-09T15:00:36.305Z",
+                  "startTime": "2026-02-14T02:58:34.796Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -199,12 +199,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 259,
+                  "duration": 241,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-06-09T15:00:37.344Z",
+                  "startTime": "2026-02-14T02:58:35.318Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -233,12 +233,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1275,
+                  "duration": 1442,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-06-09T15:00:38.251Z",
+                  "startTime": "2026-02-14T02:58:36.236Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -267,12 +267,12 @@
                   "workerIndex": 1,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 478,
+                  "duration": 490,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2025-06-09T15:00:39.948Z",
+                  "startTime": "2026-02-14T02:58:38.178Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -290,8 +290,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-06-09T15:00:35.664Z",
-    "duration": 5313.067,
+    "startTime": "2026-02-14T02:58:34.121Z",
+    "duration": 5081.562,
     "expected": 4,
     "skipped": 0,
     "unexpected": 0,
